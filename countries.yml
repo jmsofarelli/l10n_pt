@@ -1,7 +1,6 @@
-countries_620:
-  id: 620
+countries_163: 
   name: Portugal
-  iso3: PTR
+  iso3: PRT
   iso: PT
   iso_name: PORTUGAL
   numcode: "620"

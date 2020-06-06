@@ -1,22 +1,18 @@
   
-# Portugal
-
+---
 - name: Aljezur
-  country_id: '620'
+  country_id: '163'
   id: '101'
   abbr: Alj
-
 - name: Lagos
-  country_id: '620'
+  country_id: '163'
   id: '102'
   abbr: Lag
-
 - name: Odemira
-  country_id: '620'
+  country_id: '163'
   id: '103'
   abbr: Ode
-
 - name: Vila do Bispo
-  country_id: '620'
+  country_id: '163'
   id: '104'
   abbr: VdB
